@@ -1,0 +1,22 @@
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+
+.imagem {
+    height: 250px;
+    width: 250px;
+    position: relative;
+}
+
+.fonte {
+    font-size: 25px;
+}
+
+.button-container {
+    position: absolute;
+    top: 60px;
+    right: 60px;
+}
